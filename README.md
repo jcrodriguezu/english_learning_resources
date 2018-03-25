@@ -8,6 +8,9 @@ Compilation of English learning resources taken from the slack community of Colo
 >- https://www.youtube.com/user/ajhoge for improve your hearing skills
 >- https://www.youtube.com/channel/UC0kejkXg2LG-pFqAeWD_zLQ Practice theory and vocabulary
 >- https://www.youtube.com/channel/UCVBErcpqaokOf4fI5j73K_w Practice listening.
+>- http://www.bbc.co.uk/learningenglish/ practice listening.
+>- https://www.engvid.com/ Practice listening for all levels.
+>- https://www.youtube.com/watch?v=k89GF-i_Eyg&list=PLdYSWqTrWP2jyqWIdjsATbrb11uN_BMrF Extra English serie - practice listening.
 
 > # Exchange with other people
 
@@ -27,3 +30,4 @@ Compilation of English learning resources taken from the slack community of Colo
 >- https://www.duolingo.com/ Practice english
 >- https://tinycards.duolingo.com/ Practice vocabulary
 >- https://www.wordreference.com/es/ Dictionary with pronunciations
+>- https://lyricstraining.com/ practice english with songs
