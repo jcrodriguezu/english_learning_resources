@@ -11,6 +11,7 @@ Compilation of English learning resources taken from the slack community of Colo
 >- http://www.bbc.co.uk/learningenglish/ practice listening.
 >- https://www.engvid.com/ Practice listening for all levels.
 >- https://www.youtube.com/watch?v=k89GF-i_Eyg&list=PLdYSWqTrWP2jyqWIdjsATbrb11uN_BMrF Extra English serie - practice listening.
+>- https://lyricstraining.com/ Practice listening with songs
 
 > # Exchange with other people
 
