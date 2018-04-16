@@ -18,6 +18,8 @@ Compilation of English learning resources taken from the slack community of Colo
 >- https://www.italki.com exchange with other people
 >- https://preply.com exchange with other people
 >- http://home.hellotalk.com/ exchange with other people
+>- https://www.tandem.net exchange with chat and have voice/video calls
+>- https://bilingua.io conversation practice. Chat and play
 
 > # Pronunciation
 
