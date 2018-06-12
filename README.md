@@ -20,10 +20,19 @@ Compilation of English learning resources taken from the slack community of Colo
 >- https://www.naturalreaders.com to hear quality pronunciation with different accents
 >- https://speechnotes.co/ to test your own pronunciation
 >- https://es.youglish.com/ pronunciation
-
+>- https://www.fluentin3months.com/ Fluent in 3 months
+>- https://accentadvisor.com/ Accent advisor
 
 > # Apps
 
 >- https://www.duolingo.com/ Practice english
 >- https://tinycards.duolingo.com/ Practice vocabulary
 >- https://www.wordreference.com/es/ Dictionary with pronunciations
+
+> # Books
+
+>- http://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/essential-grammar-use-3rd-edition Essential Grammar in Use
+
+>-   http://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/grammar/english-grammar-use-4th-edition Intermediate Grammar in Use
+
+>- http://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/advanced-grammar-use-3rd-edition  Advanced Grammar in Use
